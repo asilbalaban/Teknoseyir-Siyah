@@ -1,0 +1,138 @@
+/**
+    siyah
+    #141311
+
+    koyu gri
+    #686766
+
+    açık gri
+    #b7b7b6
+
+    yeşil
+    #a2482e
+
+    nvidia yeşil
+    #649700
+
+    teknoseyir kırmızısı
+    £ab1500
+**/
+
+* {
+    box-shadow: none !important;
+}
+
+.navbar-default {
+    background-image: none !important;
+    background-color: #444 !important;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 5px rgba(0,0,0,.075) !important;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 5px rgba(0,0,0,.075) !important;
+    border-color: #313131 !important;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+
+body {
+    color: #b7b7b6 !important;
+}
+
+.post_form:after {
+    border-bottom: 10px solid #313131 !important;
+}
+
+.stream-top .author,
+.takip_oneri .author {
+    color: #fefefe !important;
+}
+
+.dropdown-menu,
+#yeni-icerik,
+.author-nav,
+.author-header,
+.main-head,
+.col-left article,
+.col-right article,
+.social_badge,
+.col-right .content,
+.ts-videos .content,
+.ts-videos article,
+.widget,
+.birsey_yaz,
+ul.sub-menu li a.active {
+    background-color: #141311 !important;
+    border-color: #313131 !important;
+}
+
+.bildirim_tumu a,
+.author-nav>li.active>a,
+.author-nav>li.active>a:hover,
+.author-nav>li.active>a:focus,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li.bildirim a:hover,
+li.bildirim:hover,
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus,
+#menu-drop,
+.sub-menu {
+    background-color: black !important;
+    color: #eee;
+}
+
+.post_content,
+.post_input,
+.embed {
+    border-color: #313131 !important;
+}
+
+a {
+    color: #fefefe !important;
+}
+
+.username {
+    color: #649700 !important;
+}
+
+.form-control,
+textarea#post_content,
+#comment {
+    background-color: #141311 !important;
+    color: #b7b7b6 !important;
+    border-color: #313131 !important;
+}
+
+.btn-info {
+    background-color: #649700 !important;
+    border-color: #699d04;
+    color: white;
+}
+
+.btn-default {
+    background-color: #141311 !important;
+    color: #b7b7b6 !important;
+    border-color: #333 !important;
+}
+
+#comments {
+    background-color: #141311 !important;
+    border-top: 2px solid #000 !important;
+}
+.comment, #respond {
+    border-bottom: 2px solid #686766 !important;
+}
+
+.tooltip-inner {
+    background-color: #fff !important;
+    color: black !important;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: #fff !important;
+}
+.author-nav > li > a {
+    border: 1px solid #313131 !important;
+}

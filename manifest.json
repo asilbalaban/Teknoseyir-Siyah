@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "Teknoseyir Siyah Tema",
+  "content_scripts": [
+    {
+      "matches": ["http://www.teknoseyir.com/*","http://teknoseyir.com/*"],
+      "css": ["siyah.css"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
