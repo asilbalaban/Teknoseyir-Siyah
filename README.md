@@ -8,7 +8,7 @@ https://chrome.google.com/webstore/detail/teknoseyir-siyah-tema/nehjpefkankjppmm
 
 ## Değişiklik Geçmişi
 
-v1.3
-[https://github.com/asilbalaban/Teknoseyir-Siyah/issues/1](Yorum genişletme alanı düzeltildi)
-[https://github.com/asilbalaban/Teknoseyir-Siyah/issues/2](Profil özeti penceresi düzeltildi)
-[https://github.com/asilbalaban/Teknoseyir-Siyah/issues/3](Görsel önizleme penceresi düzeltildi)
+## v1.3
+- [Yorum genişletme alanı düzeltildi](https://github.com/asilbalaban/Teknoseyir-Siyah/issues/1)
+- [Profil özeti penceresi düzeltildi](https://github.com/asilbalaban/Teknoseyir-Siyah/issues/2)
+- [Görsel önizleme penceresi düzeltildi](https://github.com/asilbalaban/Teknoseyir-Siyah/issues/3)
