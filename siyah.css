@@ -61,7 +61,10 @@ body {
 .ts-videos article,
 .widget,
 .birsey_yaz,
-ul.sub-menu li a.active {
+ul.sub-menu li a.active,
+.comment-more,
+.reply-more,
+.modal-content {
     background-color: #141311 !important;
     border-color: #313131 !important;
 }
@@ -78,7 +81,9 @@ li.bildirim:hover,
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:focus,
 #menu-drop,
-.sub-menu {
+.sub-menu,
+.comment-more:hover,
+.reply-more:hover {
     background-color: black !important;
     color: #eee;
 }
@@ -89,7 +94,9 @@ li.bildirim:hover,
     border-color: #313131 !important;
 }
 
-a {
+a,
+.user_stats a > strong,
+.modal-header button {
     color: #fefefe !important;
 }
 
